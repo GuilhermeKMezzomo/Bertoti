@@ -15,6 +15,6 @@ acerto no visual, com categorias separadas e cores que não machucam as vistas d
 <br>
 
 Site Adidas:
-Erro no visual, separação de categorias inexistente
+Erro no visual, separação de categorias inexistente na home page
 <br>
 ![alt text](https://github.com/GuilhermeKMezzomo/Bertoti/blob/main/IHC/erro%20adidas.png)
