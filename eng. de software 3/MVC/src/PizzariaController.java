@@ -9,8 +9,8 @@ public class PizzariaController {
         this.view = view;
     }
 
-    public void addPizza(String title, String genero) {
-        model.addPizza(title, genero);
+    public void addPizza(String title, String tamanho) {
+        model.addPizza(title, tamanho);
     }
 
     public void removePizza(String title) {

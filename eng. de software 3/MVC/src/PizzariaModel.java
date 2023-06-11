@@ -18,8 +18,8 @@ public class PizzariaModel {
         observers.remove(observer);
     }
 
-    public void addPizza(String title, String genero) {
-        Pizza pizza = new Pizza(title, genero);
+    public void addPizza(String title, String tamanho) {
+        Pizza pizza = new Pizza(title, tamanho);
         pizzas.add(pizza);
         notifyObservers();
     }
